@@ -1,6 +1,6 @@
-"use client"
+"use client";
 
-import { Award, BarChart3, Cog, CpU, Database, HelpCircle, Rocket, Shield, Target, TrendingUp, Trophy, Users, Wifi, Zap } from "lucide-react";
+import { Award, BarChart3, Cog, Cpu, Database, HelpCircle, Rocket, Shield, Target, TrendingUp, Trophy, Users, Wifi, Zap } from "lucide-react";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 import HeroBillboard from '@/components/sections/hero/HeroBillboard';
 import FeatureCardTwo from '@/components/sections/feature/FeatureCardTwo';
