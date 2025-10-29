@@ -52,7 +52,7 @@ export default function Home() {
               href: "contact"
             }
           ]}
-          imageSrc="https://images.pexels.com/photos/8353799/pexels-photo-8353799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="LayUp sports betting analytics dashboard"
         />
       </div>
