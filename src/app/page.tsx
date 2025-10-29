@@ -39,7 +39,7 @@ export default function Home() {
       <div id="hero" data-section="hero">
         <HeroBillboard
           title="Industry-Leading Sports Betting Predictions"
-          description="Built for high rollers, hedge funds, and fan platforms. Our machine learning models deliver timing-optimized predictions with proven 16.3% ROI performance."
+          description="Industry-leading sports betting predictions for high rollers, hedge funds, and fan platforms."
           tag="Elite Analytics"
           tagIcon={TrendingUp}
           buttons={[
